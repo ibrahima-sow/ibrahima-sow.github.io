@@ -1,0 +1,8 @@
+﻿.warning {
+    border: 10px ridge #f00;
+    padding: .9rem;
+    display: flex;
+    flex-direction: column;
+	width: 200px;
+}
+
